@@ -1,4 +1,4 @@
-#This is a modified version that focuses on installing rice/dot files from Hyrland to your arch install as soon as you install it with minimal setup.
+# This is a modified version that focuses on installing rice/dot files from Hyrland to your arch install as soon as you install it with minimal setup.
 
 <!-- <div align="center"> -->
 <img src="https://github.com/archlinux/archinstall/raw/master/docs/logo.png" alt="drawing" width="200"/>
